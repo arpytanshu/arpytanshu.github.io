@@ -6,8 +6,6 @@ math: true
 ---
 
 
-{{< download "../Arpitanshu.pdf" >}}
-
 # Arpitanshu
 #### (+91) 725 007 5947 $\mid$ arpytanshu\@gmail.com $\mid$ [GitHub](https://github.com/arpytanshu) $\mid$ [LinkedIn](https://www.linkedin.com/in/arpitanshu/)
 
