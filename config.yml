@@ -1,0 +1,35 @@
+baseURL: ""
+languageCode: en-us
+title: Arpitanshu
+theme: PaperMod
+enableEmoji: true
+
+menu:
+    main:
+      - identifier: posts
+        name: Posts
+        url: /posts/
+        weight: 10
+      # - identifier: notes
+      #   name: Notes
+      #   url: /notes/
+      #   weight: 20
+      # - identifier: archives
+      #   name: Archives
+      #   url: /archives/
+      #   weight: 30
+      # - identifier: resume
+      #   name: Resume
+      #   url: /resume/
+      #   weight: 30
+
+
+params:
+    homeInfoParams:
+        Title: Hi there 👋
+        Content: Welcome to my blog.
+    socialIcons: # optional
+        - name: github
+          url: 'https://github.com/arpytanshu'
+        - name: linkedIn
+          url: 'linkedin.in/arpitanshu'
